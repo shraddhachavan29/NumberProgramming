@@ -14,6 +14,6 @@ public class CountDigit {
 		System.out.println("Enter the Numbers : ");
 		int n = sc.nextInt();
 		int res = Countdigit(n);
-		System.out.println("There are "+res+ "Digits"+"in"+n);
+		System.out.println("There are"+res+"Digits"+"in"+n);
 	}
 }
